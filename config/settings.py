@@ -33,7 +33,7 @@ ALLOWED_HOSTS = ['*']
 EMAIL_HOST = 'smtp.yandex.ru'
 EMAIL_PORT = 465
 EMAIL_HOST_USER = "karakeyan.karen@yandex.ru"
-EMAIL_HOST_PASSWORD = "6276703zx"
+EMAIL_HOST_PASSWORD = "ugetvgkefnuqlags"
 EMAIL_USE_TLS = False
 EMAIL_USE_SSL = True
 SERVER_EMAIL = EMAIL_HOST_USER
@@ -119,7 +119,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/5.0/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'ru-ru'
 
 TIME_ZONE = 'UTC'
 
